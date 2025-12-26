@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title"Aventura |De Volta ao Sítio",[Aventura]De Volta ao Sítio - Uma Nova Aventura [2025]
+https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=1&id=32813&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYQhEjz8TcycbHpf9qHBxroYE0M.jpg"group-title="Aventura | supermaru2",[Aventura] Supermarsu 2 [2022]
+https://watch.brplayer.cc/m3u8/10/c94b9c32bee1951814f79c9646777742/master.txt?s=1&id=35003&cache=1
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/ef/dc/efdcd7a9e138553bca52ffc10fe9f15f.png"group-title="Comedia | O REI DA FEIRA", (2025) O REI DA FEIRA
+https://watch.brplayer.cc/m3u8/10/b03625c7a437a32ba45832b8e81c4271/master.txt?s=1&id=35554&cache=1
+#EXTINF:-1 group-title="Comedia | Sidelined 2:Intercepted",(2026) Sidelined 2:Intercepted
+https://watch.brplayer.cc/m3u8/10/ecfbcf413cfa7fafddb6c2bd344e7a54/master.txt?s=1&id=35232&cache=1
+#EXTINF:-1 group-title="Comedia | Quando o Céu se Engana",(2025) Quando o Céu se Engana
+https://watch.brplayer.cc/m3u8/10/d132ea3fb9a791fd13451eb8ea57104a/master.txt?s=1&id=34542&cache=1
+#EXTINF:-1 group-title="Animaçao | Nos Seus Sonhos", (2025) Nos Seus Sonhos
+https://watch.brplayer.cc/m3u8/10/68d65e024bd059199ce251ea65d13194/master.txt?s=1&id=34545&cache=1
+#EXTINF:-1 group-title="Comedia | A Sogra Perfeita",(2025) https://watch.brplayer.cc/m3u8/10/e213e90ae7c55e7e8c2a5e9d7394a067/master.txt?s=1&id=35335&cache=1
+#==================//SERIE HOME X BEBE//=================
+#EXTINF:-1 group-title="Mine-Serie |Comedia| 	Man vs Baby cap 1",CAP 01 | Homem X Bebê (2025)
+https://watch.brplayer.cc/m3u8/10/a3aaa049633e0f7763d00d9ca15ccb92/master.txt?s=1&id=35319&cache=1
+#EXTINF:-1 group-title="Mine-Serie |Comedia| Man vs Baby cap 2",CAP 02 | Homem X Bebê (2025)
+https://watch.brplayer.cc/m3u8/10/3a93c1c593e624d2d0a6ea4c55e9cfd2/master.txt?s=1&id=35320&cache=1
+#EXTINF:-1 group-title="Mine-Serie |Comedia| Man vs Baby cap 3",CAP 03 | Homem X Bebê (2025)
+https://watch.brplayer.cc/m3u8/10/f138cb36eba5a152ff3fb1ead0f2c622/master.txt?s=1&id=35321&cache=1
+#EXTINF:-1 group-title="Mine-Serie |Comedia| Man vs Baby cap 4",CAP 04 | Homem X Bebê (2025)
+https://streamtape.com/get_video?id=4W4r3GgDdpcKX68&expires=1766431163&ip=GxIsD0gTKxSHDN&token=I9YikEW8Hv-b&stream=1
+#======================//FINAL//=========================
+#EXTINF:-1 group-title="Açao| Stone Creek Killer| 2025",Stone Creek Killer (2025)
+https://watch.brplayer.cc/m3u8/12/3ae09362e39fd5ea97f96f1695286e91/master.txt?s=1&id=35441&cache=1
+#EXTINF:-1 group-title="Misterio| Shelby Oaks| 2025",Terror em Shelby (2025)
+https://watch.brplayer.cc/m3u8/10/c7e274f2fe950fbc3d82d36fb2f245f8/master.txt?s=1&id=35480&cache=1
+#EXTINF:-1 group-title="Suspense| Pose| 2025", Pose (2025)
+https://watch.brplayer.cc/m3u8/12/8146323ea464375d32c02c8df59d8c39/master.txt?s=1&id=35344&cache=1
+#============//SERIE DERRY//===========================
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 1 : O Piloto IT:Bem-Vindos
+https://watch.brplayer.cc/m3u8/10/6c058e622c101b83d9920e94235dfaa6/master.txt?s=1&id=33621&cache=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 2 : A Coisa na Escuridão IT:Bem-Vindos
+https://watch.brplayer.cc/m3u8/10/88757d44d1e0a2bf33e366fe78461e31/master.txt?s=1&id=33792&cache=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 3 : Agora Você O Vê IT:Bem-Vindos
+https://watch.brplayer.cc/m3u8/10/1f59187dda99471222b710b5b3a39a3e/master.txt?s=1&id=34352&cache=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 4 : O Grande Aparato Giratório do Funcionamento do Nosso Planeta IT:Bem-Vindos
+https://watch.brplayer.cc/m3u8/10/bc9e8957f418b0f2a0bb86f026534734/master.txt?s=1&id=34641&cache=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",emporada 1 Episódio 5 : Rua Neibolt 29 IT:Bem-Vindos
+https://streamtape.com/get_video?id=12Ol0Y3gvQSeRKB&expires=1766442200&ip=GxIsD0gTKxSHDN&token=ntBw98H0tLlH&stream=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 6 : Em Nome do Pai IT:Bem-Vindos
+https://watch.brplayer.cc/m3u8/10/2a3228854c6f47213f364faafb149166/master.txt?s=1&id=35085&cache=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 7 : ⁨O Black Spot⁩ IT:Bem-Vindos
+https://streamtape.com/get_video?id=mevVdxvAY4Fb4WG&expires=1766442485&ip=GxIsD0gTKxSHDN&token=4yhpCH0dHX6O&stream=1
+#EXTINF:-1 group-title="Drama|IT:Bem-Vindos|1 Tempotrada| 2025",Temporada 1 Episódio 8 : Brasas no Inverno IT:Bem-Vindos
+https://watch.brplayer.cc/m3u8/10/7d54b4aa7cf58b91cfdeb51b235739b2/master.txt?s=1&id=35410&cache=1
+#===================//FIM DA SERIE//===================
+
+#------------------//TERROR//--------------------------
+#EXTINF:-1 group-title="TERROR|O TELEFONE PRETO",[TERROR] O Telefone Preto 2 (2025)
+https://watch.brplayer.cc/m3u8/10/7e25dde4a60b2f3c7425e5df88815c30/master.txt?s=1&id=34640&cache=1
+#EXTINF:-1 group-title="TERROR| Daemon Mind",[TERROR]MENTE DEMONIACA (2024)
+https://watch.brplayer.cc/m3u8/10/6495fc163fb8f2fc0fe7c8a06fc8ed18/master.txt?s=1&id=35552&cache=1
+#EXTINF:-1 group-title="TERROR| The Assent",[TERROR]POSSESSAO O ULTIMO ESTAGIO (2020)
+https://watch.brplayer.cc/m3u8/10/aa3e602dc876a6d7dccff51c07840900/master.txt?s=1&id=35475&cache=1
+#EXTINF:-1 group-title="TERROR| Natal Sangrento",[TERROR] (2025) Natal Sangrento
+https://watch.brplayer.cc/m3u8/12/a8b49816330ad984a1948f4e9f883d93/master.txt?s=1&id=35336&cache=1
+#--------------------//FIM//---------------------------
+
+#-------------------//CRIMES//-------------------------
+#EXTINF:-1 group-title="CRIME|O Limite do Prazer",[crime] O Limite do Prazer (2023)
+https://watch.brplayer.cc/m3u8/10/457c753860099e09373e202e39292de9/master.txt?s=1&id=29794&cache=1
+
+#===============//TRUQUE DE MESTRE//===================
+#EXTINF:-1 group-title="CRIME|TRUQUE DE MESTRE",[CRIME] TRUQUE DE MESTRE (2013)
+https://streamtape.com/get_video?id=6mwzmpXlrQi90bJ&expires=1766445287&ip=GxIsD0gTKxSHDN&token=0S46obvAQ3Xe&stream=1
+#=================//FIM TRUQUE DE MESTRE================
+
+#EXTINF:-1 group-title="Açao| AZRAEL",[AÇAO]AZRAEL (2024)
+https://watch.brplayer.cc/m3u8/12/9ae10fb573b7027df2bd5f4bfb02af75/master.txt?s=1&id=22162&cache=1
+#EXTINF:-1 group-title="Animaçao|Norm e os Invenc",[AÇAO](2016)NORM O HEROI DO ARTICO
+https://watch.brplayer.cc/m3u8/10/3c06891375b688d31554f6770fbce90a/master.txt?s=1&id=35490&cache=1
+#EXTINF:-1 group-title="AÇAO|Uri: The Surgical Strike",[AÇAO](2016)URI–Forças especiais
+https://watch.brplayer.cc/m3u8/10/3846f5ae211da371800d278073470dd0/master.txt?s=1&id=35413&cache=1
+#EXTINF:-1 group-title="",
+
+
