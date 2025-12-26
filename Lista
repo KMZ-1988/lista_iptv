@@ -1,17 +1,26 @@
 #EXTM3U
 #================================================//INICIO//====================================================================
-#===============================================//ANIMAÇAO//===============================================================
+#===============================================//ANIMAÇAO//=================================================================
 
+
+
+
+#===================================//TEMPORADA 1 EPISODIO 1//==//LEGO Marvel//===========================================================
+#EXTINF:-1 tvg-logo=""group-title"Action & Adventure| LEGO Marvel",[Adventure]LEGO Marvel Temporada 1 Episódio 1:Episódio 1
+https://watch.brplayer.cc/m3u8/10/de6eebf320b3847ebe4a8feb659fe440/master.txt?s=1&id=34848&cache=1
+#===================================//TEMPORADA 1 EPISODIO 2//==//LEGO Marvel//===========================================================
+#EXTINF:-1 tvg-logo=""group-title"Action & Adventure| LEGO Marvel",[Adventure]LEGO Marvel Temporada 1 Episódio 2
+https://watch.brplayer.cc/m3u8/10/6fef9896ea55b5fe1a342b38bb464c78/master.txt?s=1&id=34849&cache=1
+----------------------------------------------------------------------------------------------------------------------------------------
+#==========================================//HOMEN-ARANHA//===========================================================================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e01| homen-aranha",Amazing Fantsy-Homen AranhaT01 E 01
 https://watch.brplayer.cc/m3u8/10/63515bad9f509b6783009bc4bca0162e/master.txt?s=1&id=24164&cache=1
 
 #=====================================//homem aranha t01ep02//========================================================
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e02| homen-aranha",Homen-aranha Temporada 1 Episódio 2 : A Sorte de Parker
 https://watch.brplayer.cc/m3u8/10/2bd0503ff12d7a8e6873ba059ea0a2c3/master.txt?s=1&id=24165&cache=1
 
 #====================================//TEMPORADA 1 EPISODIO 03//=====================================================
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e03| homen-aranha",Homen-aranha Temporada 1 Episódio 3 : Crise na Identidade Secreta
 https://watch.brplayer.cc/m3u8/10/3211768f6a03691dec62ef85cf89b74a/master.txt?s=1&id=24229&cache=1
 
@@ -41,10 +50,11 @@ https://watch.brplayer.cc/m3u8/10/25a714b921e3a2ba54c452debb9b5584/master.txt?s=
 
 #================================//TEMPORADA 1 EPISODIO 10//===========================================
 #problama no link do episodio
+
 #========================================================================================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title"Aventura |De Volta ao Sítio",[Aventura]De Volta ao Sítio - Uma Nova Aventura [2025]
 https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=1&id=32813&cache=1
-
+#===============================================================================================================================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYQhEjz8TcycbHpf9qHBxroYE0M.jpg"group-title="Aventura | supermaru2",[Aventura] Supermarsu 2 [2022]
 https://watch.brplayer.cc/m3u8/10/c94b9c32bee1951814f79c9646777742/master.txt?s=1&id=35003&cache=1
 
@@ -131,6 +141,26 @@ https://watch.brplayer.cc/m3u8/12/9ae10fb573b7027df2bd5f4bfb02af75/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/3c06891375b688d31554f6770fbce90a/master.txt?s=1&id=35490&cache=1
 #EXTINF:-1 group-title="AÇAO|Uri: The Surgical Strike",[AÇAO](2016)URI–Forças especiais
 https://watch.brplayer.cc/m3u8/10/3846f5ae211da371800d278073470dd0/master.txt?s=1&id=35413&cache=1
-#EXTINF:-1 group-title="",
+
+#================================//História do Comunismo//========================================
+#EXTINF:-1 group-title="DOCUMENTARIO|História do Comunismo",[DOCUMENTARIO]-[2024] História do Comunismo Temporada 1 Episódio 1 : Episódio I -Marxismo de Marx
+https://watch.brplayer.cc/m3u8/10/19c81ddc9575bacf2a6f73b428065821/master.txt?s=1&id=15262&cache=1
+
+#EXTINF:-1 group-title="DOCUMENTARIO|História do Comunismo",[DOCUMENTARIO]-[2024] História do Comunismo Temporada 1 Episódio 2 : Episódio II - Sonho de Lenin
+https://watch.brplayer.cc/m3u8/10/c018ae0e48e90aa4093c5a37af897fb1/master.txt?s=1&id=15263&cache=1
+
+#EXTINF:-1 group-title="DOCUMENTARIO|História do Comunismo",[DOCUMENTARIO]-[2024] História do Comunismo Temporada 1 Episódio 3 : Episódio III - Pesadelo de Stalin
+https://watch.brplayer.cc/m3u8/10/ce738adf821b780cfcde4100e633e51a/master.txt?s=1&id=15264&cache=1
+
+#EXTINF:-1 group-title="DOCUMENTARIO|História do Comunismo",[DOCUMENTARIO]-[2024] História do Comunismo Temporada 1 Episódio 4 : Episódio IV - Ilha de Cuba
+https://watch.brplayer.cc/m3u8/10/987ecf1824ae5e4648f2f65137abc8de/master.txt?s=1&id=15265&cache=1
+
+#EXTINF:-1 group-title="DOCUMENTARIO|História do Comunismo",[DOCUMENTARIO]-[2024] História do Comunismo Temporada 1 Episódio 5 : Episódio V - A Cortina do Leste Europeu
+https://watch.brplayer.cc/m3u8/10/2f4e2fe0d640b5eca5eaa6de05759928/master.txt?s=1&id=15266&cache=1
+
+#EXTINF:-1 group-title="DOCUMENTARIO|História do Comunismo",[DOCUMENTARIO]-[2024] História do Comunismo Temporada 1 Episódio 6 : Episódio VI - China
+https://watch.brplayer.cc/m3u8/10/ac411f98b72734d56053360159f88447/master.txt?s=1&id=15267&cache=1
+#==================================================================================================================================================
+
 
 
