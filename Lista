@@ -90,8 +90,11 @@ https://watch.brplayer.cc/m3u8/10/f138cb36eba5a152ff3fb1ead0f2c622/master.txt?s=
 
 #EXTINF:-1 group-title="Mine-Serie |Comedia| Man vs Baby cap 4",CAP 04 | Homem X Bebê (2025)
 https://streamtape.com/get_video?id=4W4r3GgDdpcKX68&expires=1766431163&ip=GxIsD0gTKxSHDN&token=I9YikEW8Hv-b&stream=1
-
 #======================//FINAL//=========================
+#=========================//COMEDIA//======================================================
+#EXTINF:-1 group-title="Mine-Serie |Comedia| NAMORANDO COM O EX",[COMEDIA]Namorando com o ex
+https://watch.brplayer.cc/m3u8/10/8da60ddc961c6ee8b17d41858f80bb2c/master.txt?s=1&id=32216&cache=1
+#==========================================================================================
 #EXTINF:-1 group-title="Açao| Stone Creek Killer| 2025",Stone Creek Killer (2025)
 https://watch.brplayer.cc/m3u8/12/3ae09362e39fd5ea97f96f1695286e91/master.txt?s=1&id=35441&cache=1
 
