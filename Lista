@@ -1,8 +1,28 @@
 #EXTM3U
-#======================================//inicio//===========================
+#======================================//inicio//====================================================================
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e01| homen-aranha",Amazing Fantsy-Homen AranhaT01 E 01
 https://watch.brplayer.cc/m3u8/10/63515bad9f509b6783009bc4bca0162e/master.txt?s=1&id=24164&cache=1
-#==================================================================================
+
+#=====================================//homem aranha t01ep02//========================================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e02| homen-aranha",Temporada 1 Episódio 2 : A Sorte de Parker
+https://watch.brplayer.cc/m3u8/10/2bd0503ff12d7a8e6873ba059ea0a2c3/master.txt?s=1&id=24165&cache=1
+
+#====================================//TEMPORADA 1 EPISODIO 03//=====================================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e03| homen-aranha",Temporada 1 Episódio 3 : Crise na Identidade Secreta
+https://watch.brplayer.cc/m3u8/10/3211768f6a03691dec62ef85cf89b74a/master.txt?s=1&id=24229&cache=1
+
+#===================================//TEMPORADA 1 EPISODIO 04//=====================================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e04| homen-aranha",Temporada 1 Episódio 4 : O Grande Momento
+https://watch.brplayer.cc/m3u8/10/19e12b394e88f05407704a9c89d40277/master.txt?s=1&id=24230&cache=1
+
+#==================================//TEMPORADA 1 EPISODIO 05//===========================================
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"serie t01e05| homen-aranha",Temporada 1 Episódio 5 : O Unicórnio à Solta!
+https://watch.brplayer.cc/m3u8/10/cd2a3b18372fb28c802a089d183cd7a5/master.txt?s=1&id=24231&cache=1
+#========================================================================================================
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title"Aventura |De Volta ao Sítio",[Aventura]De Volta ao Sítio - Uma Nova Aventura [2025]
 https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=1&id=32813&cache=1
 
