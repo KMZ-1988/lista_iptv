@@ -2,7 +2,7 @@
 #================================================//INICIO//====================================================================
 
 #===============================================//ANIMAÇAO//=================================================================
-#EXTINF:-1 tvg-logo=""group-title"Animação| OS PESTES",(01)-[ANIMAÇAO]-OS PESTES-[2025]
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/k0Htz7Z3nRY0Hup414uYLF4RisCMtft1yJONoZSvdF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mc3RhdGljLmNv/bS9kSUg5SEU3elNC/RmZ1RXlZaExHS2lI/cnhYUWs9LzMyMng0/Nzgvc21hcnQvZmls/dGVyczpmb3JtYXQo/d2VicCkvbWVkaWEv/bW92aWVzL2NvdmVy/cy8yMDI1LzEwLzEw/MDAwMzMzMzIuanBn" group-title"Animação| OS PESTES",(01)-[ANIMAÇAO]-OS PESTES-[2025]
 https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=1&id=33175&cache=1
 #================================================================================================================
 #EXTINF:-1 tvg-logo=""group-title"Animação| MISSAO PET",(02)-[ANIMAÇAO]-MISSÃO PET [2025]
@@ -69,7 +69,7 @@ https://watch.brplayer.cc/m3u8/10/b03625c7a437a32ba45832b8e81c4271/master.txt?s=
 #EXTINF:-1 group-title="Comedia | Sidelined 2:Intercepted",(2026) Sidelined 2:Intercepted
 https://watch.brplayer.cc/m3u8/10/ecfbcf413cfa7fafddb6c2bd344e7a54/master.txt?s=1&id=35232&cache=1
 
-#EXTINF:-1 group-title="Comedia | Quando o Céu se Engana",(2025) Quando o Céu se Engana
+#EXTINF:-1 tvg-logo/"https://imgs.search.brave.com/ZpekFEZpvUpd40aLdGD4tsfi0W_PnfhIZ3MMCEuwaqo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mc3RhdGljLmNv/bS9TM3RaNG9aZWtO/ZVlrNDNERjVjOWV3/WUZHYms9LzM1MHg1/MjUvc21hcnQvZmls/dGVyczpmb3JtYXQo/d2VicCkvbWVkaWEv/bW92aWVzL2NvdmVy/cy8yMDI1LzA5L2Nh/dHNfRm5WOEl3Ui5w/bmc" group-title="Comedia | Quando o Céu se Engana",(2025) Quando o Céu se Engana
 https://watch.brplayer.cc/m3u8/10/d132ea3fb9a791fd13451eb8ea57104a/master.txt?s=1&id=34542&cache=1
 
 #EXTINF:-1 group-title="Animaçao | Nos Seus Sonhos", (2025) Nos Seus Sonhos
