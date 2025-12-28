@@ -23,21 +23,29 @@ https://watch.brplayer.cc/m3u8/10/7aef8f65418a2077e96f0c12d1b34205/master.txt?s=
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 ############################################################################################################################################################
-                                                 FILMES DE COMEDIA
+                                                 FILMES DE ANIMAÇAO
 ############################################################################################################################################################
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg"group-title="Filmes | Animaçao",Kung Fu Panda 4
+https://watch.brplayer.cc/m3u8/10/32f57c0fa63af22a58598d1e0583ece9/master.txt?s=1&id=14297&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x50RGRXzl2Ohib9t6aL6by4m4LW.jpg"group-title="Filmes | Animaçao",Watchmen: Capítulo 1
+https://watch.brplayer.cc/m3u8/10/b575e1f659c7d47f3fd50cc248891ecf/master.txt?s=1&id=25469&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg"group-title="Filmes | Animaçao",Watchmen: Capítulo 2
+https://watch.brplayer.cc/m3u8/10/1c23e4b702ac1ca72c7bc88f535fae8f/master.txt?s=1&id=25470&cache=1
+
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
 
 
 
