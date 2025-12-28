@@ -1,21 +1,43 @@
 #EXTM3U
-
+###########################################################################################################################################################
+                                               FILMES DE AÇAO
+###########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pak3gqLpv4JjadaEqnn37Q2XdL.jpg"group-title="Filmes | Ação",Na Mira dos Mercenarios [2023]
 https://watch.brplayer.cc/m3u8/10/b3ba081ea31233eb2bbae7c31d752082/master.txt?s=1&id=35641&cache=1
 
 #EXTINF:-1 tvg-logo"https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWwKrN3un3hZUY1LTRfT7JNYUfL.jpg"group-title="Filmes | Ação",Farejando Vingança 2
 https://watch.brplayer.cc/m3u8/10/b06ee722e5efe10c6852d6dc07b84616/master.txt?s=1&id=35571&cache=1
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5FcfJ2fyKhuucWy2DmZJfVlHm.jpg"group-title="Filmes | Ação",Ligação Explosiva [2021]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5FcfJ2fyKhuucWy2DmZJfVlHm.jpg"group-title="Filmes | Ação",Ligação Explosiva [2021]
 https://watch.brplayer.cc/m3u8/10/43b42857454720f741d62c1f5ddc1e90/master.txt?s=1&id=35553&cache=1
 
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-type="movie" tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6Y9eU6QLWjFPCYFwJwbP3IdyX2.jpg"group-title="Filmes | Ação",A Grande Inundação [2025]
+https://watch.brplayer.cc/m3u8/10/7aef8f65418a2077e96f0c12d1b34205/master.txt?s=1&id=35516&cache=1
+
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+############################################################################################################################################################
+                                                 FILMES DE COMEDIA
+############################################################################################################################################################
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+#EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+
+
+
