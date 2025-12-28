@@ -1,6 +1,6 @@
 #EXTM3U
 ###########################################################################################################################################################
-                                               FILMES DE AÇAO
+                                              #FILMES DE AÇAO#
 ###########################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pak3gqLpv4JjadaEqnn37Q2XdL.jpg"group-title="Filmes | Ação",Na Mira dos Mercenarios [2023]
@@ -31,7 +31,7 @@ https://872371487.tapecontent.net/radosgw/lx7xoYYAX2U7L2v/jdKdW8keLf_r4KNBhXi8o-
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 ############################################################################################################################################################
-                                                 FILMES DE ANIMAÇAO
+                                                 #FILMES DE ANIMAÇAO#
 ############################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg"group-title="Filmes | Animaçao",Kung Fu Panda 4
@@ -57,7 +57,7 @@ https://2448360001.tapecontent.net/radosgw/DkrPDDJXPXukylk/fR5lImFRrg2JG1sa3d5X5
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
 ################################################################################################################################################################
-                                                  FILMES DE AVENTURA
+                                                #FILMES DE AVENTURA#
 ################################################################################################################################################################
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
@@ -66,7 +66,7 @@ https://2448360001.tapecontent.net/radosgw/DkrPDDJXPXukylk/fR5lImFRrg2JG1sa3d5X5
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
 ################################################################################################################################################################
-                                                   FILME DE CRIME
+ #                                                  FILME DE CRIME
 ################################################################################################################################################################
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
@@ -74,7 +74,7 @@ https://2448360001.tapecontent.net/radosgw/DkrPDDJXPXukylk/fR5lImFRrg2JG1sa3d5X5
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
 ################################################################################################################################################################
-                                                   FILMES DE COMEDIA
+ #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
