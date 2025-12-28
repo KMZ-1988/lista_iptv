@@ -6,5 +6,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movie" tvg-logo"https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pak3gqLpv4JjadaEqnn37Q2XdL.jpg" group-title="Filmes | Ação",Na Mira dos Mercenarios [2023]
+#EXTINF:-1 tvg-type="movie" tvg-logo"https://imgs.search.brave.com/O1-e0Wh1HXamAY0g_Fuu0GM7d53qeTlXbKFsNQdLoYU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS50bWRiLm9yZy90/L3AvdzUwMC8xUGFr/M2dxTHB2NEpqYWRh/RXFubjM3UTJYZEwu/anBn" group-title="Filmes | Ação",Na Mira dos Mercenarios [2023]
 https://watch.brplayer.cc/m3u8/10/b3ba081ea31233eb2bbae7c31d752082/master.txt?s=1&id=35641&cache=1
+
+#EXTINF:-1 tvg-type="movie" tvg-logo"https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBeKHgOtjDRNMHeF9oMR8gpx3k8.jpg" group-title="Filmes | Açao",Lost Horizon [Legendado]
+https://watch.brplayer.cc/stream/bTN1OC8xMi85ZmVlMzk5NTk0ZWVkZWE5OThmMWE5NDBjOGYwZTI4MC83MjBwLzcyMHAubTN1OD9pZD0zNTU3NQ==
