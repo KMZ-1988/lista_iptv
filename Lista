@@ -2,39 +2,39 @@
 #================================================//INICIO//====================================================================
 
 #===============================================//ANIMAÇAO//=================================================================
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/k0Htz7Z3nRY0Hup414uYLF4RisCMtft1yJONoZSvdF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mc3RhdGljLmNv/bS9kSUg5SEU3elNC/RmZ1RXlZaExHS2lI/cnhYUWs9LzMyMng0/Nzgvc21hcnQvZmls/dGVyczpmb3JtYXQo/d2VicCkvbWVkaWEv/bW92aWVzL2NvdmVy/cy8yMDI1LzEwLzEw/MDAwMzMzMzIuanBn" group-title"Animação| OS PESTES",(01)-[ANIMAÇAO]-OS PESTES-[2025]
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/k0Htz7Z3nRY0Hup414uYLF4RisCMtft1yJONoZSvdF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mc3RhdGljLmNv/bS9kSUg5SEU3elNC/RmZ1RXlZaExHS2lI/cnhYUWs9LzMyMng0/Nzgvc21hcnQvZmls/dGVyczpmb3JtYXQo/d2VicCkvbWVkaWEv/bW92aWVzL2NvdmVy/cy8yMDI1LzEwLzEw/MDAwMzMzMzIuanBn" group-title" CANAL 01 | OS PESTES",[ANIMAÇAO]-OS PESTES-[2025]
 https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=1&id=33175&cache=1
 #================================================================================================================
-#EXTINF:-1 tvg-logo=""group-title"Animação| MISSAO PET",(02)-[ANIMAÇAO]-MISSÃO PET [2025]
+#EXTINF:-1 tvg-logo=""group-title" CANAL 01 | MISSAO PET",[ANIMAÇAO]-MISSÃO PET [2025]
 https://watch.brplayer.cc/m3u8/10/c8caec337df345589c23aa47ea6bb43b/master.txt?s=1&id=35260&cache=1
 #================================================================================================================
-#EXTINF:-1 tvg-logo=""group-title"Animação|lego",(03)-[ANIMAÇAO][2025]LEGO Frozen: Operation Puffins
+#EXTINF:-1 tvg-logo=""group-title" CANAL 01 |lego",[ANIMAÇAO]LEGO Frozen: Operation Puffins [2025]
 https://watch.brplayer.cc/m3u8/10/bb64c74f463ee92e6f877c47a130d645/master.txt?s=1&id=33588&cache=1
 #===================================//TEMPORADA 1 EPISODIO 1//==//LEGO Marvel//===========================================================
-#EXTINF:-1 tvg-logo=""group-title"Action & Adventure| LEGO Marvel",(04)[Adventure]LEGO Marvel Temporada 1 Episódio 1:Episódio 1
+#EXTINF:-1 tvg-logo=""group-title" SERIE 01 | LEGO Marvel",[SERIE-ANIMAÇAO]LEGO Marvel Temporada 1 Episódio 1:Episódio 1
 https://watch.brplayer.cc/m3u8/10/de6eebf320b3847ebe4a8feb659fe440/master.txt?s=1&id=34848&cache=1
 #===================================//TEMPORADA 1 EPISODIO 2//==//LEGO Marvel//===========================================================
-#EXTINF:-1 tvg-logo=""group-title"Action & Adventure| LEGO Marvel",(05)[Adventure]LEGO Marvel Temporada 1 Episódio 2
+#EXTINF:-1 tvg-logo=""group-title" SERIE 01 | LEGO Marvel",[SERIE-ANIMAÇAO]LEGO Marvel Temporada 1 Episódio 2
 https://watch.brplayer.cc/m3u8/10/6fef9896ea55b5fe1a342b38bb464c78/master.txt?s=1&id=34849&cache=1
 #----------------------------------------------------------------------------------------------------------------------------------------
 #==========================================//HOMEN-ARANHA//===========================================================================================
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 1",Homen-aranha Temporada 1 Episódio 1 : Amazing Fantasy
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 1",Homen-aranha Temporada 1 Episódio 1 : Amazing Fantasy
 https://watch.brplayer.cc/m3u8/10/63515bad9f509b6783009bc4bca0162e/master.txt?s=1&id=24164&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 2",Homen-aranha Temporada 1 Episódio 2 : A Sorte de Parker
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 2",Homen-aranha Temporada 1 Episódio 2 : A Sorte de Parker
 https://watch.brplayer.cc/m3u8/10/2bd0503ff12d7a8e6873ba059ea0a2c3/master.txt?s=1&id=24165&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 3",Homen-aranha Temporada 1 Episódio 3 : Crise na Identidade Secreta
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 3",Homen-aranha Temporada 1 Episódio 3 : Crise na Identidade Secreta
 https://watch.brplayer.cc/m3u8/10/3211768f6a03691dec62ef85cf89b74a/master.txt?s=1&id=24229&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 4",Homen-aranha Temporada 1 Episódio 4 : O Grande Momento
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 4",Homen-aranha Temporada 1 Episódio 4 : O Grande Momento
 https://watch.brplayer.cc/m3u8/10/19e12b394e88f05407704a9c89d40277/master.txt?s=1&id=24230&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 5",Homen-aranha Temporada 1 Episódio 5 : O Unicórnio à Solta!
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 5",Homen-aranha Temporada 1 Episódio 5 : O Unicórnio à Solta!
 https://watch.brplayer.cc/m3u8/10/cd2a3b18372fb28c802a089d183cd7a5/master.txt?s=1&id=24231&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 6",Homen-aranha Temporada 1 Episódio 6 : Duelo com o Demônio
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 6",Homen-aranha Temporada 1 Episódio 6 : Duelo com o Demônio
 https://watch.brplayer.cc/m3u8/10/69e70e2b36b5970344e5c920495558b8/master.txt?s=1&id=24379&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 7",Homen-aranha Temporada 1 Episódio 7 : A Ascensão do Escorpião
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 7",Homen-aranha Temporada 1 Episódio 7 : A Ascensão do Escorpião
 https://watch.brplayer.cc/m3u8/10/79a22811a90cc52e8ac0f5c0b42f6393/master.txt?s=1&id=24380&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 8",Homen-aranha Temporada 1 Episódio 8 : Uma Teia Embaraçada
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 8",Homen-aranha Temporada 1 Episódio 8 : Uma Teia Embaraçada
 https://watch.brplayer.cc/m3u8/10/22c9c13f11355d93ee0cc26ce01585c9/master.txt?s=1&id=24381&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title"SERIE | Homen-aranha Temporada 1 Episódio 9",Homen-aranha Temporada 1 Episódio 9 : Herói ou Ameaça
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title" SERIE 01 | Homen-aranha Temporada 1 Episódio 9",Homen-aranha Temporada 1 Episódio 9 : Herói ou Ameaça
 https://watch.brplayer.cc/m3u8/10/25a714b921e3a2ba54c452debb9b5584/master.txt?s=1&id=24489&cache=1
 #================================//TEMPORADA 1 EPISODIO 10//===========================================
 #problama no link do episodio
