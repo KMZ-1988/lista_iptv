@@ -27,15 +27,8 @@ https://watch.brplayer.cc/m3u8/10/7799d6b6f8439b6443c55053f21224b1/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg"group-title="Filmes | Ação",Risqué – A Vingança [2025]
 https://872371487.tapecontent.net/radosgw/lx7xoYYAX2U7L2v/jdKdW8keLf_r4KNBhXi8o-qDAKvgyVD3BjwGir1C6FLm8XfzZ3bz7dWeXdNH2qFrE44OhdhQH4W8Z5WAAnJmgQXrw-MGCc2fo9lty3EeO9hbJ89pB_kgWUckI9tB92M0WiWuLTX1HqVzGSCdcJ3TzTEdgNmk88wCnFA0ZMRblJi0qymaLAzzVBx2gX-g37wVslpLgpiGgRgSNKAVxh7ztPKZ3ml8a5XjrRWSK_Lz9HJHyCacS47UhZQT1IbVxoPvcMxR7dWMGvjLuwdmOABvjemCLFh5pkGcdMWDtS0YZR9fcw9Mkd1x2b-I9AY/RSQAVNGCA.mp4?stream=1
 
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+
 ############################################################################################################################################################
                                                  #FILMES DE ANIMAÇAO#
 ############################################################################################################################################################
@@ -65,10 +58,8 @@ https://watch.brplayer.cc/m3u8/10/3c06891375b688d31554f6770fbce90a/master.txt?s=
 https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=1&id=33175&cache=1
 
 
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
+
 ################################################################################################################################################################
                                                 #FILMES DE AVENTURA#
 ################################################################################################################################################################
@@ -76,11 +67,8 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/27ZUQLmhbJMSmfI1gIBWA4z1vQg.jpg"group-title="Filmes | Aventura",Quarteto Fantástico: Primeiros Passos [2025]
 https://watch.brplayer.cc/m3u8/10/7d964f75ca6668a156f2c950eac58e59/master.txt?s=1&id=33911&cache=1
 
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
+
 ################################################################################################################################################################
  #                                                  FILME DE CRIME
 ################################################################################################################################################################
@@ -102,10 +90,8 @@ https://2448409171.tapecontent.net/radosgw/ekgDplQebmtYgg3/UxuasIx45JlurRwoJ1GcH
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/90JPvtnwyUYj6yNGqqLNfNYVh6s.jpg"group-title="Filmes | Comédia",Chico Bento e a Goiabeira Maraviosa [2025]
 
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
+
 ################################################################################################################################################################
                                                   #  SERIE DE ANIMAÇAO
 ################################################################################################################################################################
