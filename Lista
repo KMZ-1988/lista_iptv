@@ -1,7 +1,9 @@
 #EXTM3U
 ############################################################################################################################################################
-                                              #FILMES DE AÇAO#
+                                                             #FILMES DE AÇAO#
 ###########################################################################################################################################################
+
+
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_face/4hgO90GAUpMX0mQ5R5B7vwh4foD.jpg"group-title="Filmes | Ação",Onda de Violência [2025]
 https://watch.brplayer.cc/m3u8/10/98fe179807288d2f5b33d1b87e42a694/master.txt?s=1&id=35031&cache=1
@@ -29,9 +31,15 @@ https://872371487.tapecontent.net/radosgw/lx7xoYYAX2U7L2v/jdKdW8keLf_r4KNBhXi8o-
 
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 
+
+
 ############################################################################################################################################################
-                                                 #FILMES DE ANIMAÇAO#
+                                                              #FILMES DE ANIMAÇAO#
 ############################################################################################################################################################
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zHPgL2f9nZaYUkOXZNsV1Nq9Tt1.jpg"group-title="Filmes | Animaçao",Nos Seus Sonhos [2025]
 https://watch.brplayer.cc/m3u8/10/68d65e024bd059199ce251ea65d13194/master.txt?s=1&id=34545&cache=1
@@ -63,18 +71,32 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Animaçao",
 
+
+
+
 ################################################################################################################################################################
-                                                #FILMES DE AVENTURA#
+                                                          #FILMES DE AVENTURA#
 ################################################################################################################################################################
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/27ZUQLmhbJMSmfI1gIBWA4z1vQg.jpg"group-title="Filmes | Aventura",Quarteto Fantástico: Primeiros Passos [2025]
 https://watch.brplayer.cc/m3u8/10/7d964f75ca6668a156f2c950eac58e59/master.txt?s=1&id=33911&cache=1
 
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
 
+
+
+
+
 ################################################################################################################################################################
- #                                                  FILME DE CRIME
+ #                                                        FILME DE CRIME
 ################################################################################################################################################################
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zZyC1mXEs13adcmU2NibCP0W5F6.jpg"group-title="Filmes | Crime",Truque de Mestre [2013]
 https://860134119.tapecontent.net/radosgw/bKJbL01boAfPr1V/7il3G7wcEyiI-mlzLxyQgX6yA4ZWRfkpWub06v9KWlrSYbPnyrXhXd-6De-dbrVd778bGYBmmF2T9cv3eGx1W87BDKoW9kBLECuYZOMc5pbfgVl2Nujn9cxBjt1Pavszcnm9g-SKWisFCJC0U-NgDXMOO7-vqY90EHYlhuSO_ixbTN9RfCpCzqDZv0VCfGBrXN-lUzoPorBulQNRkBCTyRkC5Qrm03DWeMctkerEag9904f0vrBa8YQnO5pWJMNP0IwN3gA5qVv91lZ_wSLVx8Jz6ZUs4w7EhU70fEEOcGctMAfKoOdFmgPSDA0/truquedemestre2013.mp4?stream=1
@@ -85,11 +107,29 @@ https://860134112.tapecontent.net/radosgw/L3m6Wx6gW2hRoko/39yF8wjiQYMrhhWYbHwctx
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez8xFETE0yduHtrxP9MsutLyfZ6.jpg"group-title="Filmes | Crime",Truque de Mestre: O 3° Ato [2025]
 https://2448409171.tapecontent.net/radosgw/ekgDplQebmtYgg3/UxuasIx45JlurRwoJ1GcHIfem_-ccuswAM4wbAoUNblqvexpGmHdXh2nIOmic0CtZi6C28FBtnystj6hD0basIjb_QxPVeOMMB1EPejYm4sgT_7153Sq1hFSEGDTSRZGy6IPWF1TqFPJv0Ip2MAqcU8jwrbOXdw2yJOnXQCIBfKPJD7rlgl-MRl7PywZdqe2Qg4y5ZpopsYaydgP9Zmt5k2nf4W5L2-OykSlRpy78XrH-QVH5mztdj69lUmsWqcR11NMCbD9upo64X5Iu9R5ZeajpKmQZelyFG7GeAozdDdPHid37Mk1UmaxA0U/Truquedemestre3.mp4?stream=1
 
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
+
+
+
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
+
+
+
+
+
 ################################################################################################################################################################
  #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h90ccrZZzwfSsOgvHTbB76MLw4b.jpg"group-title="Filmes | Comedia",Quando o Céu se Engana [2025]
+https://watch.brplayer.cc/m3u8/10/d132ea3fb9a791fd13451eb8ea57104a/master.txt?s=1&id=34542&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fipdb3aSKSjhaTvDrgajU87fEcB.jpg"group-title="Filmes | Comedia",Morando Com o Ex [2021]
+https://watch.brplayer.cc/m3u8/10/8da60ddc961c6ee8b17d41858f80bb2c/master.txt?s=1&id=32216&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ytdK03kYesKHtBHJvlCQjLNtMre.jpg" group-title="Filmes | Comedia",O Rei da Feira [2025]
+https://watch.brplayer.cc/m3u8/10/b03625c7a437a32ba45832b8e81c4271/master.txt?s=1&id=35554&cache=1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cYpRi6PCdTYbZ1Sq3fQ72y7Ty8R.jpg"group-title="Filmes | Comedia",A Sogra Perfeita [2025]
 https://watch.brplayer.cc/m3u8/10/e213e90ae7c55e7e8c2a5e9d7394a067/master.txt?s=1&id=35335&cache=1
 
@@ -98,11 +138,32 @@ https://2448376735.tapecontent.net/radosgw/KzWeyLdjmWS00YY/SoGMkqG6d618yuWi8bY2T
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
 
 
+
+
+
 ###############################################################################################################################################################
                                                     # FILMES DE FANTASIA
 ###############################################################################################################################################################
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hr5aiccesMlgCkKT6EURZcUNxzO.jpg"group-title="Filmes | Fantasia",Drácula-Uma História de Amor Eterno [2025]
 https://watch.brplayer.cc/m3u8/10/75a8729c48081089d01e242f39d32c0c/master.txt?s=1&id=35086&cache=1
+
+
+
+
+
+
+##############################################################################################################################################################
+#                                                      FILMES DE ROMANCE
+##############################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iiiNvhu2pr52oMggxNhodQUMNAQ.jpg"group-title="Filmes | Romance",Segredos de Verão [2023]
+https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=1&id=35610&cache=1
+
+
+
+
 
 ################################################################################################################################################################
                                                   #  SERIE DE ANIMAÇAO
