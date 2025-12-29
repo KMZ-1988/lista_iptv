@@ -3,6 +3,9 @@
                                               #FILMES DE AÇAO#
 ###########################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_face/4hgO90GAUpMX0mQ5R5B7vwh4foD.jpg"group-title="Filmes | Ação",Onda de Violência [2025]
+https://watch.brplayer.cc/m3u8/10/98fe179807288d2f5b33d1b87e42a694/master.txt?s=1&id=35031&cache=1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2n3HMHZu2jrrcwaqSTeciiiQyR.jpg"group-title="Filmes | Ação",URI – Forças Especiais
 https://watch.brplayer.cc/m3u8/10/3846f5ae211da371800d278073470dd0/master.txt?s=1&id=35413&cache=1
 
