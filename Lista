@@ -134,8 +134,6 @@ https://watch.brplayer.cc/m3u8/10/457c753860099e09373e202e39292de9/master.txt?s=
  #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QYvJqECFUrNUhKv16izXEG34Cs.jpg"group-title="Filmes | Comedia",Licorice Pizza [2021]
-https://872371488.tapecontent.net/radosgw/AXRdopABbrIZO7/XdyQZ8gmGuIKQFOxiK4ZpeODGRqN99ugi04mxnGOrQqdxGEaHAmtBIFmhz_djVfwCgH7IgqWrS3U3jDXHpWkfgK0bF3voptqnOSMPNHOGkWZl7PsbMTfC-jAD7qzR3MzWidNKpykToPktoJMaVKdMneVfKzNk6Niq7Su9TvfuZ1tyNvSvg-pixEhe0eM0ViIJp2YaNkwLZTxOEUOXklHRcKRGiLulPQthfIJFoJO_aIUkEZns68mYX2M444084iBEvxJyiA3bDZaYLrl_leVzxy3Wdkk5J6KswMdIx6qzwD1FJFCszT0Iezkmtc/Licorice-Pizza.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg"group-title="Filmes | Comedia",Outro Amor Fora do Tempo [2025]
 https://watch.brplayer.cc/m3u8/10/ecfbcf413cfa7fafddb6c2bd344e7a54/master.txt?s=1&id=35232&cache=1
@@ -174,6 +172,9 @@ https://watch.brplayer.cc/m3u8/10/75a8729c48081089d01e242f39d32c0c/master.txt?s=
 ##############################################################################################################################################################
 #                                                      FILMES DE ROMANCE
 ##############################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QYvJqECFUrNUhKv16izXEG34Cs.jpg"group-title="Filmes | Comedia",Licorice Pizza [2021]
+https://872371488.tapecontent.net/radosgw/AXRdopABbrIZO7/XdyQZ8gmGuIKQFOxiK4ZpeODGRqN99ugi04mxnGOrQqdxGEaHAmtBIFmhz_djVfwCgH7IgqWrS3U3jDXHpWkfgK0bF3voptqnOSMPNHOGkWZl7PsbMTfC-jAD7qzR3MzWidNKpykToPktoJMaVKdMneVfKzNk6Niq7Su9TvfuZ1tyNvSvg-pixEhe0eM0ViIJp2YaNkwLZTxOEUOXklHRcKRGiLulPQthfIJFoJO_aIUkEZns68mYX2M444084iBEvxJyiA3bDZaYLrl_leVzxy3Wdkk5J6KswMdIx6qzwD1FJFCszT0Iezkmtc/Licorice-Pizza.mp4?stream=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iiiNvhu2pr52oMggxNhodQUMNAQ.jpg"group-title="Filmes | Romance",Segredos de Verão [2023]
 https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=1&id=35610&cache=1
