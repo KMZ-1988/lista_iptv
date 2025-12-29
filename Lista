@@ -39,7 +39,8 @@ https://872371487.tapecontent.net/radosgw/lx7xoYYAX2U7L2v/jdKdW8keLf_r4KNBhXi8o-
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cYQhEjz8TcycbHpf9qHBxroYE0M.jpg"group-title="Filmes | Animaçao",Super Bola de Pelos:Salva o Futuro [2022]
+https://watch.brplayer.cc/m3u8/10/c94b9c32bee1951814f79c9646777742/master.txt?s=1&id=35003&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zHPgL2f9nZaYUkOXZNsV1Nq9Tt1.jpg"group-title="Filmes | Animaçao",Nos Seus Sonhos [2025]
 https://watch.brplayer.cc/m3u8/10/68d65e024bd059199ce251ea65d13194/master.txt?s=1&id=34545&cache=1
@@ -79,7 +80,8 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 ################################################################################################################################################################
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title"Filmes | Aventura",De Volta ao Sítio - Uma Nova Aventura [2025]
+https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=1&id=32813&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/27ZUQLmhbJMSmfI1gIBWA4z1vQg.jpg"group-title="Filmes | Aventura",Quarteto Fantástico: Primeiros Passos [2025]
 https://watch.brplayer.cc/m3u8/10/7d964f75ca6668a156f2c950eac58e59/master.txt?s=1&id=33911&cache=1
@@ -120,6 +122,9 @@ https://2448409171.tapecontent.net/radosgw/ekgDplQebmtYgg3/UxuasIx45JlurRwoJ1GcH
 ################################################################################################################################################################
  #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg"group-title="Filmes | Comedia",Outro Amor Fora do Tempo [2025]
+https://watch.brplayer.cc/m3u8/10/ecfbcf413cfa7fafddb6c2bd344e7a54/master.txt?s=1&id=35232&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h90ccrZZzwfSsOgvHTbB76MLw4b.jpg"group-title="Filmes | Comedia",Quando o Céu se Engana [2025]
 https://watch.brplayer.cc/m3u8/10/d132ea3fb9a791fd13451eb8ea57104a/master.txt?s=1&id=34542&cache=1
