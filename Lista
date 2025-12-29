@@ -198,6 +198,9 @@ https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=
 #                                                     FILMES DE TERROR
 ################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jEOiokUfBWoDbGPs7QBvwSWmAC.jpg"group-title="Filmes | Terror",GOAT [2025]
+https://watch.brplayer.cc/m3u8/10/c08f0c801bd312c3d2358c1ed0bc1bea/master.txt?s=1&id=33855&cache=1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg"group-title="Filmes | Terror",Natal Sangrento [2025]
 https://watch.brplayer.cc/m3u8/12/a8b49816330ad984a1948f4e9f883d93/master.txt?s=1&id=35336&cache=1
 
