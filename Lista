@@ -80,7 +80,7 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 ################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title"Filmes | Aventura",De Volta ao Sítio - Uma Nova Aventura [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title="Filmes | Aventura",De Volta ao Sítio - Uma Nova Aventura [2025]
 https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=1&id=32813&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/27ZUQLmhbJMSmfI1gIBWA4z1vQg.jpg"group-title="Filmes | Aventura",Quarteto Fantástico: Primeiros Passos [2025]
@@ -138,11 +138,11 @@ https://watch.brplayer.cc/m3u8/10/b03625c7a437a32ba45832b8e81c4271/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cYpRi6PCdTYbZ1Sq3fQ72y7Ty8R.jpg"group-title="Filmes | Comedia",A Sogra Perfeita [2025]
 https://watch.brplayer.cc/m3u8/10/e213e90ae7c55e7e8c2a5e9d7394a067/master.txt?s=1&id=35335&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/90JPvtnwyUYj6yNGqqLNfNYVh6s.jpg"group-title="Filmes | Comédia",Chico Bento e a Goiabeira Maraviosa [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/90JPvtnwyUYj6yNGqqLNfNYVh6s.jpg"group-title="Filmes | Comedia",Chico Bento e a Goiabeira Maraviosa [2025]
 https://2448376735.tapecontent.net/radosgw/KzWeyLdjmWS00YY/SoGMkqG6d618yuWi8bY2Tl4MPftqthFw2rHnJsCFpk5t8X6TvPCut4Z33kK_kXtMLwOqPMkJEyNZipRzhnwtMQorucpbr37VH-o5Nvv2PulGQeP41NG--FFLnSS6KviBqrgnj2OCooip8zW3kF1hB9I12AT0Z7MnK9XKg2MZo9c8ysL7krK_NuS1z6MYoVXl0obc9DfMsqzAShJ1MLkh6r2_8MyN90xOYStJgG0PCFVD63on1h1ttJ0hstA_pJRV4q596oE7aCYAtSAKAv2QbarsD6ubG_Ztm7PQ9JzP6V-kw7A1VYp3K_1HTvL1BA2Cpq9PefuR0cBkTulpnhwqcz3mFc_9RC5VZKE1hppOOE_RUESqMbpW2oEtlPc/Chico.Bento.e.a.Goiabeira.Maraviosa.2025.1080p.WEB-DL.NACIONAL.5.1.mkv.mp4?stream=1
+
+
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
-
-
 
 
 
@@ -153,8 +153,6 @@ https://2448376735.tapecontent.net/radosgw/KzWeyLdjmWS00YY/SoGMkqG6d618yuWi8bY2T
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hr5aiccesMlgCkKT6EURZcUNxzO.jpg"group-title="Filmes | Fantasia",Drácula-Uma História de Amor Eterno [2025]
 https://watch.brplayer.cc/m3u8/10/75a8729c48081089d01e242f39d32c0c/master.txt?s=1&id=35086&cache=1
-
-
 
 
 
