@@ -3,7 +3,11 @@
                                                              #FILMES DE AÇAO#
 ###########################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qhyyyWrHUbl6QG4udAJj17CBa5.jpg"group-title="Filmes | Ação",Pose [2025]
+https://watch.brplayer.cc/m3u8/12/8146323ea464375d32c02c8df59d8c39/master.txt?s=1&id=35344&cache=1
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jfvquGEiGov7LwTwd00OaybCKsl.jpg"group-title="Filmes | Ação",Stone Creek Killer [2025]
+https://watch.brplayer.cc/m3u8/12/3ae09362e39fd5ea97f96f1695286e91/master.txt?s=1&id=35441&cache=1
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_face/4hgO90GAUpMX0mQ5R5B7vwh4foD.jpg"group-title="Filmes | Ação",Onda de Violência [2025]
 https://watch.brplayer.cc/m3u8/10/98fe179807288d2f5b33d1b87e42a694/master.txt?s=1&id=35031&cache=1
@@ -163,6 +167,19 @@ https://watch.brplayer.cc/m3u8/10/75a8729c48081089d01e242f39d32c0c/master.txt?s=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iiiNvhu2pr52oMggxNhodQUMNAQ.jpg"group-title="Filmes | Romance",Segredos de Verão [2023]
 https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=1&id=35610&cache=1
+
+##############################################################################################################################################################
+
+##############################################################################################################################################################
+#                                                     FILMES DE TERROR
+################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/w7wsPyClttMEpQhAskpfMiaCSin.jpg"group-title="Filmes | Terror",Terror em Shelby Oaks [2025]
+https://watch.brplayer.cc/m3u8/10/c7e274f2fe950fbc3d82d36fb2f245f8/master.txt?s=1&id=35480&cache=1
+
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Terror",
+
+
+
 
 
 
