@@ -63,7 +63,10 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 ################################################################################################################################################################
                                                 #FILMES DE AVENTURA#
 ################################################################################################################################################################
-#EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/27ZUQLmhbJMSmfI1gIBWA4z1vQg.jpg"group-title="Filmes | Aventura",Quarteto Fantástico: Primeiros Passos [2025]
+https://watch.brplayer.cc/m3u8/10/7d964f75ca6668a156f2c950eac58e59/master.txt?s=1&id=33911&cache=1
+
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
@@ -72,6 +75,7 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 ################################################################################################################################################################
  #                                                  FILME DE CRIME
 ################################################################################################################################################################
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zZyC1mXEs13adcmU2NibCP0W5F6.jpg"group-title="Filmes | Crime",Truque de Mestre [2013]
 https://860134119.tapecontent.net/radosgw/bKJbL01boAfPr1V/7il3G7wcEyiI-mlzLxyQgX6yA4ZWRfkpWub06v9KWlrSYbPnyrXhXd-6De-dbrVd778bGYBmmF2T9cv3eGx1W87BDKoW9kBLECuYZOMc5pbfgVl2Nujn9cxBjt1Pavszcnm9g-SKWisFCJC0U-NgDXMOO7-vqY90EHYlhuSO_ixbTN9RfCpCzqDZv0VCfGBrXN-lUzoPorBulQNRkBCTyRkC5Qrm03DWeMctkerEag9904f0vrBa8YQnO5pWJMNP0IwN3gA5qVv91lZ_wSLVx8Jz6ZUs4w7EhU70fEEOcGctMAfKoOdFmgPSDA0/truquedemestre2013.mp4?stream=1
 
@@ -86,6 +90,7 @@ https://2448409171.tapecontent.net/radosgw/ekgDplQebmtYgg3/UxuasIx45JlurRwoJ1GcH
 ################################################################################################################################################################
  #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/90JPvtnwyUYj6yNGqqLNfNYVh6s.jpg"group-title="Filmes | Comédia",Chico Bento e a Goiabeira Maraviosa [2025]
 
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
@@ -93,5 +98,7 @@ https://2448409171.tapecontent.net/radosgw/ekgDplQebmtYgg3/UxuasIx45JlurRwoJ1GcH
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
 #EXTINF:-1 tvg-logo=""group-title="Filmes | Comédia",
 ################################################################################################################################################################
-                                                  #  FILMES DE 
+                                                  #  SERIE DE ANIMAÇAO
 ################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo=""group-title="Series | Animaçao",
