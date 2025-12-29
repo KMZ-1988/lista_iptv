@@ -1,21 +1,22 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXTINF:6.000,
-segment_000.ts
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
 ############################################################################################################################################################
                                                              #FILMES DE AÇAO#
 #############################################################################################################################################################
 
-#EXTINF:6.000,tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg"group-title="Filmes | Ação",SISU:Estrada da Vingança [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg"group-title="Filmes | Ação",SISU:Estrada da Vingança [2025]
 https://861133973.tapecontent.net/radosgw/xbrbqrj4k8Sq36/Uo_6Podzq06b9rulEF9P9Zghauka3E4eH6JUKCPNMZU-q-Cwl0xMGP5kfFUjM-PirHL1dfgHASD0njHsBjk-49QcEp0rfdjSVTCi6rmg8t8BQ8ZonNxIHVH7wPi95dS6JS8Gljd6I1ydgd6vUNzbW2BH8VJTUcPinrUPNKZYnJ2mstqfQsCxRc19MYGZ_smiibeUrIZOqLIQpuL0o-3Ym1_ZiHiLX_2TCc5i0pxsY7fvCSqRMMGi2j4miUS5N0gLMNmro-w1LAfuRAzdqE3NH4MQClj3dmR884E5_S-spurYn6es74vB7aL-RlE/SISUESTRDPRAVNGCA.mp4?stream=1
 
-#EXTINF:6.000,tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg"group-title="Filmes | Ação",Risqué – A Vingança [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg"group-title="Filmes | Ação",Risqué – A Vingança [2025]
 https://872371487.tapecontent.net/radosgw/lx7xoYYAX2U7L2v/jdKdW8keLf_r4KNBhXi8o-qDAKvgyVD3BjwGir1C6FLm8XfzZ3bz7dWeXdNH2qFrE44OhdhQH4W8Z5WAAnJmgQXrw-MGCc2fo9lty3EeO9hbJ89pB_kgWUckI9tB92M0WiWuLTX1HqVzGSCdcJ3TzTEdgNmk88wCnFA0ZMRblJi0qymaLAzzVBx2gX-g37wVslpLgpiGgRgSNKAVxh7ztPKZ3ml8a5XjrRWSK_Lz9HJHyCacS47UhZQT1IbVxoPvcMxR7dWMGvjLuwdmOABvjemCLFh5pkGcdMWDtS0YZR9fcw9Mkd1x2b-I9AY/RSQAVNGCA.mp4?stream=1
 
-#EXTINF:6.000 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6Y9eU6QLWjFPCYFwJwbP3IdyX2.jpg"group-title="Filmes | Ação",A Grande Inundação [2025]
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6Y9eU6QLWjFPCYFwJwbP3IdyX2.jpg"group-title="Filmes | Ação",A Grande Inundação [2025]
 https://watch.brplayer.cc/m3u8/10/7aef8f65418a2077e96f0c12d1b34205/master.txt?s=1&id=35516&cache=1
 
-#EXTINF:6.000, tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcPvl201QhtbXm7nhYHTHzdsjev.jpg"group-title="Filmes | Ação",A Hora dos Valentes [2025]
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcPvl201QhtbXm7nhYHTHzdsjev.jpg"group-title="Filmes | Ação",A Hora dos Valentes [2025]
 https://watch.brplayer.cc/m3u8/10/7799d6b6f8439b6443c55053f21224b1/master.txt?s=1&id=35514&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qhyyyWrHUbl6QG4udAJj17CBa5.jpg"group-title="Filmes | Ação",Pose [2025]
