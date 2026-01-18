@@ -113,6 +113,10 @@ https://watch.brplayer.cc/m3u8/10/43b42857454720f741d62c1f5ddc1e90/master.txt?s=
 ############################################################################################################################################################
                                                               #FILMES DE ANIMAÇAO#
 ############################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbpNAldCtWjotI4vEiphPrz8DJh.jpg"group-title="Filmes | Animaçao",Os Caras Malvados 2 [2025]
+https://watch.brplayer.cc/m3u8/10/020995e82b0c56ec52f28dd7de3bb145/master.txt?s=1&id=31167&cache=1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JeqMDjMWyv6Dnr7jTZi73Q2o9I.jpg"group-title="Filmes | Animaçao",As Aventuras de Porco e Amendoin [2022]
 https://watch.brplayer.cc/m3u8/10/e18fc2ff0554e41167fe5bb2d4c91900/master.txt?s=1&id=35910&cache=1
 
