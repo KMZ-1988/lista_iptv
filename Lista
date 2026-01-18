@@ -326,21 +326,21 @@ https://streamtape.com/get_video?id=mevVdxvAY4Fb4WG&expires=1766442485&ip=GxIsD0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2titW404dPYOzK5NElQoAJ2ivK5.jpg"group-title="Series|TERROR|IT:Bem-Vindos",Temporada 1 Episódio 8 : Brasas no Inverno IT:Bem-Vindos
 https://watch.brplayer.cc/m3u8/10/7d54b4aa7cf58b91cfdeb51b235739b2/master.txt?s=1&id=35410&cache=1
 ##############################################################################################################################################################
-                                                        # BET
+                                                        # BET CINEMA
 ##############################################################################################################################################################
 
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Bet | ",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64BSgP6tT0Tm8qF1oQ2mwoLkBm.jpg"group-title="Filmes | Bet",A Empregada [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64BSgP6tT0Tm8qF1oQ2mwoLkBm.jpg"group-title="Cinema | Bet | Ação",A Empregada [2025]
 https://watch.brplayer.cc/m3u8/12/b19589a2ef8be9a8f2f3bace66d77e77/master.txt?s=1&id=35577&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg"group-title="Filmes | Bet | Ação",Protocolo de Fuga [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg"group-title="Cinema | Bet | Ação",Protocolo de Fuga [2025]
 https://watch.brplayer.cc/m3u8/12/3440724aa6155a22429e2a611aabe631/master.txt?s=1&id=34748&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"group-title="Filmes | Bet | Ação",Hunting Grounds
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"group-title="Cinema | Bet | Ação",Hunting Grounds
 https://watch.brplayer.cc/m3u8/12/fa08b98c6ab37ef6b323c886b46d4104/master.txt?s=1&id=33625&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1bqgKvVjeKumUXH1JBrkKxKGqH.jpg"group-title="Filmes | Bet | Ação",Blue Canaries
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1bqgKvVjeKumUXH1JBrkKxKGqH.jpg"group-title="Cinema | Bet | Ação",Blue Canaries
 https://watch.brplayer.cc/m3u8/12/991dd9faea5cbc36496c78470abec386/master.txt?s=1&id=33682&cache=1
 
 
