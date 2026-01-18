@@ -15,15 +15,29 @@
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
 
-##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKr6jSFBrL1VFZIJ541boREu0a4.jpg"group-title="Filmes | Ação",Boca de Fumo [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mmXTDpcUnmSNnsLKDPuoNKQcmo.jpg"group-title="Filmes | Ação",Caçadores da Fronteira [2025]
+https://watch.brplayer.cc/m3u8/10/e8aec03ef0fa5b601d282d6209b8aa64/master.txt?s=1&id=34904&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs6UlHXUrdN2bQPe4pCPUMUAyMD.jp"group-title="Filmes | Ação",O Preço de uma Vida [2022]
+https://watch.brplayer.cc/m3u8/10/d2c2de6e423321db2aed69be2da62c9b/master.txt?s=1&id=34847&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvqW8mOm818QDio3GKKmPLK8kXj.jpg"group-title="Filmes | Ação",Fuga Fatal [2025]
+https://watch.brplayer.cc/m3u8/10/d0c6d53672d807bfef3b5878d0d74686/master.txt?s=1&id=34915&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5TMox6zYw686BbVS8D1UTPUYGI.jpg"group-title="Filmes | Ação",Retorno da Lenda [2021]
+https://watch.brplayer.cc/m3u8/10/d7051cd5577152e670abbf27b534b704/master.txt?s=1&id=35108&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZpy37Ia38WoMKwtWKr3TFqvUzE.jpg"group-title="Filmes | Ação",Filhos do Verão [2023]
+https://watch.brplayer.cc/m3u8/10/244a1b49363236bde3930288883e8a18/master.txt?s=1&id=35207&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WOmwPpQ2NeACRm2FMDnVhevb7G.jpg"group-title="Filmes | Ação",O Troll da Montanha 2 [2025]
+https://watch.brplayer.cc/m3u8/10/ae0aaad8021d829295f1da3514c712c0/master.txt?s=1&id=35092&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lX4ueVaWLNYF3Y3oRdz8unDI3q.jpg"group-title="Filmes | Ação",Alvo da Máfia [2025]
+https://watch.brplayer.cc/m3u8/10/9dc4642d45e47e0c1799a55ac93b4a54/master.txt?s=1&id=35211&cache=
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKr6jSFBrL1VFZIJ541boREu0a4.jpg"group-title="Filmes | Ação",Boca de Fumo [2025]
 https://watch.brplayer.cc/m3u8/10/c9c8e8122abe9316fc60b6c2f01b3e09/master.txt?s=1&id=35674&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg"group-title="Filmes | Ação",A Vingança [2025]
