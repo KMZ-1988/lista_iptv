@@ -160,9 +160,18 @@ https://watch.brplayer.cc/m3u8/10/279ea52163e81b3a0505949bfa5f181f/master.txt?s=
 
 
 ################################################################################################################################################################
-                                                          #FILMES DE AVENTURA#
+                                                          #FILMES DE AVENTURA
 ################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dv9UrOoicRiMGkzr2oj2YwSFY2K.jpg"group-title="Filmes | Aventura",31 Minutos: Calurosa Navidad [2025]
+https://watch.brplayer.cc/m3u8/10/404d3f0612eb04b0949751d0102417a9/master.txt?s=1&id=34763&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg"group-title="Filmes | Aventura",Uma Aventura Animal [2021]
+https://868419159.tapecontent.net/radosgw/DPYDV1a19QSkr9b/Hf9SxpAYkr_Ae56o33N0Rt4NnZl_nVAosMuxUlP-WVBoBcbf22XSN7pYs_Z8uEC05X3pLOIFmCA4ryopoue0C0LiVbbb0AdMSQqf3DAkqD5UcZxaxar_UmzZcwXYuNbpoVfzhoEAkRm7LwpqLV35Z0__qa1q2ZjkzcShd6j21z4PS1XU5-ZfzKYQRYW7uk7qR4MS_2hA1mCEHJ3y4Ary-aGmw8ArVYUOHQyaUwYj1dOgA23RUIq7FEkwnDbqILXeKEorgK8okz5X8yqlquAki_BfhCKnTZ27mHYYI4DwG3dOTlxiaw9xJSz-FdI4tWZmo2QMy4DBDtC5WH11/Uma.Aventura.Animal.a.Jornada.para.Casa.mkv.mp4?stream=1
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZqiprinVuDTP3xWOvdbniDnnYX.jpg"group-title="Filmes | Aventura",Nina e os Ladrões de Piano [2023]
+https://watch.brplayer.cc/m3u8/10/f8a3af8403dce22b60d704af28be2f4e/master.txt?s=1&id=35875&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4ViZM5kZLTmR6b8UaL5m7MeKf5X.jpg"group-title="Filmes | Aventura",De Volta ao Sítio - Uma Nova Aventura [2025]
 https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=1&id=32813&cache=1
@@ -170,9 +179,21 @@ https://watch.brplayer.cc/m3u8/10/efe2d4536fbb724f90ef5135b2899251/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/27ZUQLmhbJMSmfI1gIBWA4z1vQg.jpg"group-title="Filmes | Aventura",Quarteto Fantástico: Primeiros Passos [2025]
 https://watch.brplayer.cc/m3u8/10/7d964f75ca6668a156f2c950eac58e59/master.txt?s=1&id=33911&cache=1
 
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPWQ02RbO82ijIede7SYHcnhzoT.jpg"group-title="Filmes | Aventura",Paraíso Azul [1982]
+https://watch.brplayer.cc/m3u8/10/33929b69461fed5d5e93a98dc968ac26/master.txt?s=1&id=23466&cache=1
+
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Aventura",
+#####################################################################################################################
+#                                                         DRAMA
+#####################################################################################################################
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Drama",
+
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SS2egXayE9MuarPqzrbpj87ac4.jpg"group-title="Filmes | Drama",Atrevida: A Paixão Não Tem Regras [2023]
+https://watch.brplayer.cc/m3u8/10/ddacbedc18fb4a0be1a48b7bdd424882/master.txt?s=1&id=30088&cache=1
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfQxDXDukz66vIg7EZzDkENP9at.jpg"group-title="Filmes | Drama",O Homem com as Respostas [2021]
+https://watch.brplayer.cc/m3u8/10/2b423dc1a327648b419922ee8980e8dd/master.txt?s=1&id=19517&cache=1
 
 
 
@@ -234,10 +255,12 @@ https://861603694.tapecontent.net/radosgw/aPGW7MWvQwHxRgx/q6Tsl_62KjHzULC190detF
 ###############################################################################################################################################################
                                                     # FILMES DE FANTASIA
 ###############################################################################################################################################################
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9SJUsybZSmEYqAsn5cxencuoEX.jpg"group-title="Filmes | Fantasia",Sombras no Deserto
+https://watch.brplayer.cc/m3u8/10/efd33731692792594017105dc0931699/master.txt?s=1&id=35789&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hr5aiccesMlgCkKT6EURZcUNxzO.jpg"group-title="Filmes | Fantasia",Drácula-Uma História de Amor Eterno [2025]
 https://watch.brplayer.cc/m3u8/10/75a8729c48081089d01e242f39d32c0c/master.txt?s=1&id=35086&cache=1
+
 
 
 
@@ -262,6 +285,10 @@ https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=
 ##############################################################################################################################################################
 #                                                     FILMES DE TERROR
 ################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg"group-title="Filmes | Terror",Malum [2023]
+https://watch.brplayer.cc/m3u8/10/830d8cfa42c682e73a8b476c2de17134/master.txt?s=1&id=35947&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jEOiokUfBWoDbGPs7QBvwSWmAC.jpg"group-title="Filmes | Terror",GOAT [2025]
 https://watch.brplayer.cc/m3u8/10/c08f0c801bd312c3d2358c1ed0bc1bea/master.txt?s=1&id=33855&cache=1
@@ -343,5 +370,11 @@ https://watch.brplayer.cc/m3u8/12/fa08b98c6ab37ef6b323c886b46d4104/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1bqgKvVjeKumUXH1JBrkKxKGqH.jpg"group-title="Cinema | Bet | Ação",Blue Canaries
 https://watch.brplayer.cc/m3u8/12/991dd9faea5cbc36496c78470abec386/master.txt?s=1&id=33682&cache=1
 
+#############################################################################################################################################################
+#                                                                    SERIES 
+#############################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rn6TUIXtVs9E2RIwP3nCPHyc8iR.jpg"group-title="Series| Aventura| STAR TREK Temporada 1 ",Temporada 1 Episódio 1 : A Garotada Hoje em Dia
+https://watch.brplayer.cc/m3u8/10/ca81596ca792c84a9be8deebe401d211/master.txt?s=1&id=35951&cache=1
 
 
