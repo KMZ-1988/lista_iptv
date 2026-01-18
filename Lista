@@ -4,7 +4,8 @@
                                                              #FILMES DE AÇAO#
 #############################################################################################################################################################
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNbyUFUt3c14CoIjLSn8ZxPw.jpg"group-title="Filmes | Ação",Operação 49
+https://watch.brplayer.cc/m3u8/10/e5f5c9b8d407672fc0c83e836adff55d/master.txt?s=1&id=35810&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQE8Hz8OraOg1r5d0fibIjVpQPF.jpg"group-title="Filmes | Ação",Caçada Final [2024]
 https://watch.brplayer.cc/m3u8/10/d1551ca3a04c25d9779a8144abd70b14/master.txt?s=1&id=34676&cache=1
@@ -326,6 +327,8 @@ https://watch.brplayer.cc/m3u8/10/7d54b4aa7cf58b91cfdeb51b235739b2/master.txt?s=
                                                         # BET
 ##############################################################################################################################################################
 
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Bet | ",
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64BSgP6tT0Tm8qF1oQ2mwoLkBm.jpg"group-title="Filmes | Bet",A Empregada [2025]
 https://watch.brplayer.cc/m3u8/12/b19589a2ef8be9a8f2f3bace66d77e77/master.txt?s=1&id=35577&cache=1
 
@@ -334,4 +337,9 @@ https://watch.brplayer.cc/m3u8/12/3440724aa6155a22429e2a611aabe631/master.txt?s=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"group-title="Filmes | Bet | Ação",Hunting Grounds
 https://watch.brplayer.cc/m3u8/12/fa08b98c6ab37ef6b323c886b46d4104/master.txt?s=1&id=33625&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1bqgKvVjeKumUXH1JBrkKxKGqH.jpg"group-title="Filmes | Bet | ação",Blue Canaries
+https://watch.brplayer.cc/m3u8/12/991dd9faea5cbc36496c78470abec386/master.txt?s=1&id=33682&cache=1
+
+
 
