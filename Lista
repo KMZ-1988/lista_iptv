@@ -3,6 +3,23 @@
 #######################################################################################################################################################
                                                              #FILMES DE AÇAO#
 #############################################################################################################################################################
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQE8Hz8OraOg1r5d0fibIjVpQPF.jpg"group-title="Filmes | Ação",Caçada Final [2024]
+https://watch.brplayer.cc/m3u8/10/d1551ca3a04c25d9779a8144abd70b14/master.txt?s=1&id=34676&cache=1
+
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPtNokhBtgwSp3MHaR3X4O0SPbF.jpg"group-title="Filmes | Ação",Sem Saída [2023]
+https://watch.brplayer.cc/m3u8/10/acd746ef45bbe504516078ff295ad7a7/master.txt?s=1&id=34706&cache=1
+
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56fLEVKv5b2XJTiZSzqMnzvZq6P.jpg"group-title="Filmes | Ação",Punição [2024]
+https://watch.brplayer.cc/m3u8/10/5599b93313facb3b448b1124a75b23f7/master.txt?s=1&id=34705&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg"group-title="Filmes | Ação",High Ground [2025]
+https://watch.brplayer.cc/m3u8/10/32ff692bedd4cd4764741dd4b347d5b4/master.txt?s=1&id=34826&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD91yowrHP7kjbrzxbYzQVzQKCk.jpg"group-title="Filmes | Ação",Amanhecer Sangrento [2025]
+https://watch.brplayer.cc/m3u8/10/1aace02b1dc7a9ee987286a90bbef89c/master.txt?s=1&id=34909&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mmXTDpcUnmSNnsLKDPuoNKQcmo.jpg"group-title="Filmes | Ação",Caçadores da Fronteira [2025]
 https://watch.brplayer.cc/m3u8/10/e8aec03ef0fa5b601d282d6209b8aa64/master.txt?s=1&id=34904&cache=1
@@ -314,4 +331,7 @@ https://watch.brplayer.cc/m3u8/12/b19589a2ef8be9a8f2f3bace66d77e77/master.txt?s=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg"group-title="Filmes | Bet",Protocolo de Fuga [2025]
 https://watch.brplayer.cc/m3u8/12/3440724aa6155a22429e2a611aabe631/master.txt?s=1&id=34748&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"group-title="Filmes | Bet | Ação",Hunting Grounds
+https://watch.brplayer.cc/m3u8/12/fa08b98c6ab37ef6b323c886b46d4104/master.txt?s=1&id=33625&cache=1
 
