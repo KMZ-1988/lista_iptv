@@ -3,7 +3,9 @@
 #######################################################################################################################################################
                                                              #FILMES DE AÇAO#
 #############################################################################################################################################################
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/759mIIerY4Njb8uPoj7AIXGSNh3.jpg"group-title="Filmes | Ação",Pushpa 2: The Rule
+https://watch.brplayer.cc/m3u8/10/5e751eec310808fca425537cdc8a8453/master.txt?s=1&id=35298&cache=1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNbyUFUt3c14CoIjLSn8ZxPw.jpg"group-title="Filmes | Ação",Operação 49
 https://watch.brplayer.cc/m3u8/10/e5f5c9b8d407672fc0c83e836adff55d/master.txt?s=1&id=35810&cache=1
 
