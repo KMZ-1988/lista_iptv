@@ -6,9 +6,6 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg"group-title="Filmes | Ação",Dinheiro Suspeito [2025]
 https://watch.brplayer.cc/m3u8/10/0580d4d230ff5956f79a7c9540f04292/master.txt?s=1&id=35975&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg"group-title="Filmes | Ação ",Dinheiro Suspeito [2025]
-https://watch.brplayer.cc/m3u8/10/0580d4d230ff5956f79a7c9540f04292/master.txt?s=1&id=35975&cache=1
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1JsM9V0N/Agrandeinunda-ao.jpg"group-title="Filmes | Ação",A Grande Inundação [2025]
 https://watch.brplayer.cc/m3u8/10/7aef8f65418a2077e96f0c12d1b34205/master.txt?s=1&id=35516&cache=1
 
@@ -263,8 +260,10 @@ https://watch.brplayer.cc/m3u8/10/7d54b4aa7cf58b91cfdeb51b235739b2/master.txt?s=
 ##############################################################################################################################################################
                                                         # BET
 ##############################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64BSgP6tT0Tm8qF1oQ2mwoLkBm.jpg"grup-title="Filmes | Bet ",A Empregada
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64BSgP6tT0Tm8qF1oQ2mwoLkBm.jpg"group-title="Filmes | Bet",A Empregada [2025]
 https://watch.brplayer.cc/m3u8/12/b19589a2ef8be9a8f2f3bace66d77e77/master.txt?s=1&id=35577&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg"grup-title="Filmes | Bet ",Protocolo de Fuga [2025]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flMnawvBtLvMStfeAjuBE1K9ykX.jpg"group-title="Filmes | Bet",Protocolo de Fuga [2025]
 https://watch.brplayer.cc/m3u8/12/3440724aa6155a22429e2a611aabe631/master.txt?s=1&id=34748&cache=1
+
