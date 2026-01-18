@@ -3,6 +3,39 @@
 #######################################################################################################################################################
                                                              #FILMES DE AÇAO#
 #############################################################################################################################################################
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
+
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKr6jSFBrL1VFZIJ541boREu0a4.jpg"group-title="Filmes | Ação",Boca de Fumo [2025]
+https://watch.brplayer.cc/m3u8/10/c9c8e8122abe9316fc60b6c2f01b3e09/master.txt?s=1&id=35674&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg"group-title="Filmes | Ação",A Vingança [2025]
+https://watch.brplayer.cc/m3u8/10/9b1e3a29306be2b83c1c660a896b3ce4/master.txt?s=1&id=35567&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akO6TuooLE8EiIIQtB1sp8DlYb0.jpg"group-title="Filmes | Ação",Justiça Sem Limites [2023]
+https://watch.brplayer.cc/m3u8/10/f8add58ad672b61094cc64be7700e69b/master.txt?s=1&id=35877&cache=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umBTqmDFpXhSbmxL0ghM3pu0lJt.jpg"group-title="Filmes | Ação",Carga Final [2025]
+https://watch.brplayer.cc/m3u8/10/6e29a42d687b8cea141df2f46378b007/master.txt?s=1&id=35945&cache=1
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg"group-title="Filmes | Ação",Dinheiro Suspeito [2025]
 https://watch.brplayer.cc/m3u8/10/0580d4d230ff5956f79a7c9540f04292/master.txt?s=1&id=35975&cache=1
 
