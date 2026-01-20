@@ -288,7 +288,8 @@ https://watch.brplayer.cc/m3u8/10/457c753860099e09373e202e39292de9/master.txt?s=
 ################################################################################################################################################################
  #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8s9WG1GOv8e17rmEDCTNQx8nms.jpg"group-title="Filmes | Comedia",O Bom Bandido [2025]
+https://watch.brplayer.cc/m3u8/10/fc09bc726c8f8212248df25f0b6c4f24/master.txt?s=1&id=35149&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg"group-title="Filmes | Comedia",Outro Amor Fora do Tempo [2025]
 https://watch.brplayer.cc/m3u8/10/ecfbcf413cfa7fafddb6c2bd344e7a54/master.txt?s=1&id=35232&cache=1
@@ -348,7 +349,8 @@ https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=
 ##############################################################################################################################################################
 #                                                     FILMES DE TERROR
 ################################################################################################################################################################
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOH9wIu4xbeVx17TW8YDjxw4Txk.jpg"group-title="Filmes | Terror",Five Nights at Freddy’s 2 [2025]
+https://watch.brplayer.cc/m3u8/10/1a23efcb39da8db7ca95ea8085d096a1/master.txt?s=1&id=35720&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg"group-title="Filmes | Terror",Malum [2023]
 https://watch.brplayer.cc/m3u8/10/830d8cfa42c682e73a8b476c2de17134/master.txt?s=1&id=35947&cache=1
