@@ -311,8 +311,9 @@ https://watch.brplayer.cc/m3u8/10/422be4bc7b63d7746f885a2962802e1a/master.txt?s=
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
-##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
-##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etRDHyD3FszWdMGHVJA5bMXvoem.jpg" group-title="Filmes | Comedia"tvg-year="2025" tvg-description="Uma menina havaiana solitária faz amizade com um alienígena fugitivo, ajudando a remendar sua família fragmentada.",Lilo & Stitch
+https://watch.brplayer.cc/m3u8/10/7bff87c59e3fbc5e1ded2fe3ce1d9865/master.txt?s=1&id=29645&cache=1
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jasFpJCOG3FoXKv9IErzWCnZJor.jpg" group-title="Filmes | Comedia"tvg-year="2025" tvg-description="O astro do cinema Jay Kelly confronta seu passado e seu presente em uma jornada caótica pela Europa com seu dedicado agente. Ao longo do caminho, os dois precisam confrontar os relacionamentos com pessoas queridas e o legado que vão deixar.",Jay Kelly
 https://watch.brplayer.cc/m3u8/10/1e492efd68b177927702d6ade06c849e/master.txt?s=1&id=35179&cache=1
@@ -325,9 +326,6 @@ https://watch.brplayer.cc/m3u8/10/bef07eaa68a113f34457bc81a61dbf0b/master.txt?s=
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg" group-title="Filmes | Comedia"tvg-year="2021" tvg-description="A história de Alana Kane e Gary Valentine crescendo, correndo e passando pela navegação traiçoeira do primeiro amor no Vale de San Fernando, 1973.",Licorice Pizza
 https://watch.brplayer.cc/m3u8/10/b0e7419bb3a9c888b3fa988b5c4e552a/master.txt?s=1&id=35544&cache=1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etRDHyD3FszWdMGHVJA5bMXvoem.jpg"group-title="Filmes | Comedia",Lilo & Stitch [2025]
-https://watch.brplayer.cc/m3u8/10/7bff87c59e3fbc5e1ded2fe3ce1d9865/master.txt?s=1&id=29645&cache=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8s9WG1GOv8e17rmEDCTNQx8nms.jpg"group-title="Filmes | Comedia",O Bom Bandido [2025]
 https://watch.brplayer.cc/m3u8/10/fc09bc726c8f8212248df25f0b6c4f24/master.txt?s=1&id=35149&cache=1
@@ -384,7 +382,9 @@ https://watch.brplayer.cc/m3u8/10/0aff79643e0e8ce75a892aa9a9e736f4/master.txt?s=
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Terror"tvg-year="" tvg-description="",
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Terror"tvg-year="" tvg-description="",
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Terror"tvg-year="" tvg-description="",
-##EXTINF: -1 tvg-logo="" group-title="Filmes | Terror"tvg-year="" tvg-description="",
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNd82Y9zto0OIgpghOOe15g8Pbi.jpg" group-title="Filmes | Terror"tvg-year="2023" tvg-description="Após a morte de seu pai, Micaela decide passar uns dias na casa de campo de sua família para tentar recuperar a relação perdida com sua filha. Mas quando começa a lembrar de episódios de sua infância, ela é obrigada a enfrentar antigos demônios de seu passado.",Demônios do Passado
+https://watch.brplayer.cc/m3u8/10/3f4ab9445df9b78ef3d6ee752e33a07d/master.txt?s=1&id=24245&cache=1
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upJVPS6e99GK1xP6gNKHKNxMsHB.jpg" group-title="Filmes | Terror"tvg-year="2024" tvg-description="Uma família se vê envolvida em um pesadelo enquanto é caçada por uma criatura mítica e maligna. Durante séculos e em todas as culturas, os pais alertaram os seus filhos sobre o lendário Homem do Saco, que rapta crianças inocentes para nunca mais serem vistas. Patrick McKee escapou por pouco quando menino, o que o deixou com cicatrizes ao longo de sua vida adulta. Agora, o pesadelo da infância de Patrick voltou, ameaçando a segurança de …",O Homem do Saco
 https://watch.brplayer.cc/m3u8/10/da7959e6f2817d4a557c3ae995265eea/master.txt?s=1&id=24552&cache=1
