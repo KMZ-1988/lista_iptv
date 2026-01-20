@@ -3,12 +3,16 @@
 #######################################################################################################################################################
                                                              #FILMES DE AÇAO#
 #############################################################################################################################################################
-##EXTINF: -1 tvg-logo="" group-title=""tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Ação"tvg-year="" tvg-description="",
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tH6utnYvlTpGvbQCs5FdeQIKFp.jpg" group-title="Filmes | Ação"tvg-year="2024"tvg-description="Um jovem pobre é injustamente acusado de tráfico de drogas após ser enganado. Um ex-promotor investiga o caso e descobre o esquema de uma equipe de advogados corruptos.",O Promotor
+
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eswk5Bv76dKxaCsblZ08A0PgT0l.jpg"group-title="Filmes | Ação"tvg-year="2025" tvg-description="Após um negócio de drogas dar errado na fronteira mexicana, dois agentes secretos revelam suas identidades e precisam unir forças para sobreviver.",Sob Fogo
+https://watch.brplayer.cc/m3u8/10/917ad2565258f410a86a57d6cfa47a8f/master.txt?s=1&id=35722&cache=1
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrkIAsPbzAagrXIjxGcuzQKVao2.jpg" group-title="Filmes | Ação" tvg-year="2025" tvg-description="Um pai solteiro fará o que for preciso para proteger sua filha de 13 anos do mundo corrupto que a cerca.",Temporada de Sangue
 https://watch.brplayer.cc/m3u8/10/1bdd43a9f880bb095fc0ba4f82753c53/master.txt?s=1&id=36021&cache=1
-
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/759mIIerY4Njb8uPoj7AIXGSNh3.jpg"group-title="Filmes | Ação" tvg-year="2023" tvg-description="Um poderoso contrabandista confronta um inimigo sedento de vingança enquanto administra a política e fecha negócios importantes. Um pedido público de desculpas desencadeia um confronto decisivo.",Pushpa 2: The Rule
 https://watch.brplayer.cc/m3u8/10/5e751eec310808fca425537cdc8a8453/master.txt?s=1&id=35298&cache=1
