@@ -13,7 +13,8 @@
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Ação"tvg-year="" tvg-description="",
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Ação"tvg-year="" tvg-description="",
 ##EXTINF: -1 tvg-logo="" group-title="Filmes | Ação"tvg-year="" tvg-description="",
-##EXTINF: -1 tvg-logo="" group-title="Filmes | Ação"tvg-year="" tvg-description="",
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg" group-title="Filmes | Ação"tvg-year="2024" tvg-description="Eddie e Venom estão fugindo. Perseguidos pelos dois mundos, a dupla é forçada a tomar uma decisão devastadora que vai fechar as cortinas da última rodada de Venom e Eddie.",Venom: A Última Rodada
+https://watch.brplayer.cc/m3u8/10/dfadb3951b95acdd8571548ae4d6cf0d/master.txt?s=1&id=23066&cache=1
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tH6utnYvlTpGvbQCs5FdeQIKFp.jpg" group-title="Filmes | Ação"tvg-year="2024"tvg-description="Um jovem pobre é injustamente acusado de tráfico de drogas após ser enganado. Um ex-promotor investiga o caso e descobre o esquema de uma equipe de advogados corruptos.",O Promotor
 https://watch.brplayer.cc/m3u8/10/976797cb85805d626fc5642aa5244ba0/master.txt?s=1&id=34974&cache=1
@@ -111,24 +112,6 @@ https://watch.brplayer.cc/m3u8/10/b06ee722e5efe10c6852d6dc07b84616/master.txt?s=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5FcfJ2fyKhuucWy2DmZJfVlHm.jpg"group-title="Filmes | Ação",Ligação Explosiva [2021]
 https://watch.brplayer.cc/m3u8/10/43b42857454720f741d62c1f5ddc1e90/master.txt?s=1&id=35553&cache=1
-
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-
-
-
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Ação",
-
 
 
 ############################################################################################################################################################
@@ -319,6 +302,30 @@ https://watch.brplayer.cc/m3u8/10/422be4bc7b63d7746f885a2962802e1a/master.txt?s=
 ################################################################################################################################################################
  #                                                  FILMES DE COMEDIA
 ################################################################################################################################################################
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+##EXTINF: -1 tvg-logo="" group-title="Filmes | Comedia"tvg-year="" tvg-description="",
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jasFpJCOG3FoXKv9IErzWCnZJor.jpg" group-title="Filmes | Comedia"tvg-year="2025" tvg-description="O astro do cinema Jay Kelly confronta seu passado e seu presente em uma jornada caótica pela Europa com seu dedicado agente. Ao longo do caminho, os dois precisam confrontar os relacionamentos com pessoas queridas e o legado que vão deixar.",Jay Kelly
+https://watch.brplayer.cc/m3u8/10/1e492efd68b177927702d6ade06c849e/master.txt?s=1&id=35179&cache=1
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKsEuOFH9cdMXljHZ7QKjfO0EoH.jpg" group-title="Filmes | Comedia"tvg-year="2023" tvg-description="Bucky é um adolescente de dezesseis anos que sonha em se tornar um diretor de cinema. Após um meteoro cair em seu quintal e transformar seu pai em um morto-vivo, ele tem a brilhante ideia de usá-lo em seu primeiro filme de terror.",Você Só Precisa
+https://watch.brplayer.cc/m3u8/10/b2e7ce6a6c4a844bfeb89a765e9bb959/master.txt?s=1&id=35949&cache=1
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJvszJS1nIcv2IWHEEkJsNl6VW3.jpg" group-title="Filmes | Comedia"tvg-year="2025" tvg-description="Santiago sonha em formar uma família com Ana , mas tudo muda quando ela revela que está grávida… do ex! Determinado a lutar por seu amor, ele enfrenta uma convivência inesperada: Pancho, o ex de Ana, se muda para a casa para acompanhar a gravidez. Entre rivalidade e situações divertidas, começa uma guerra para conquistar Ana, onde nem tudo vale.",PAPAI X DOIS
+https://watch.brplayer.cc/m3u8/10/bef07eaa68a113f34457bc81a61dbf0b/master.txt?s=1&id=36008&cache=1
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg" group-title="Filmes | Comedia"tvg-year="2021" tvg-description="A história de Alana Kane e Gary Valentine crescendo, correndo e passando pela navegação traiçoeira do primeiro amor no Vale de San Fernando, 1973.",Licorice Pizza
+https://watch.brplayer.cc/m3u8/10/b0e7419bb3a9c888b3fa988b5c4e552a/master.txt?s=1&id=35544&cache=1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etRDHyD3FszWdMGHVJA5bMXvoem.jpg"group-title="Filmes | Comedia",Lilo & Stitch [2025]
 https://watch.brplayer.cc/m3u8/10/7bff87c59e3fbc5e1ded2fe3ce1d9865/master.txt?s=1&id=29645&cache=1
 
@@ -339,20 +346,6 @@ https://watch.brplayer.cc/m3u8/10/b03625c7a437a32ba45832b8e81c4271/master.txt?s=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cYpRi6PCdTYbZ1Sq3fQ72y7Ty8R.jpg"group-title="Filmes | Comedia",A Sogra Perfeita [2025]
 https://watch.brplayer.cc/m3u8/10/e213e90ae7c55e7e8c2a5e9d7394a067/master.txt?s=1&id=35335&cache=1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/90JPvtnwyUYj6yNGqqLNfNYVh6s.jpg"group-title="Filmes | Comedia",Chico Bento e a Goiabeira Maraviosa [2025]
-https://2448376735.tapecontent.net/radosgw/KzWeyLdjmWS00YY/xjoc05wgEgTgQTdo8CF_YyfbmrBXaT2V4F_5ObKPpTkx553qJqBbRAaCW3iT3djK5tSuTUdXPE-xnY7rhqVvvZ3-8RIjRbAqK3wf8YgU4mWXQqNPYOc1RoKWlWMYZjSrEiqcwC2wFGlcBIwoaYbZlqoMgTlH2qAHQBaBxXmPm0oYthcR-wjQIiKKRnXxs7ZuXHGX7acOn_QMtXgZO5EmZpK9G_82NYpROtBEPBoybn_Iu-gxqxXuJ5X9o7lYvmiseOr0BOcegE24uRJ9Y9vAGbD1RgQwV-xnw9tcgaYMPx987orJUNfqc6hUDTRa9Iwex2jB7uWQrhB-G8eVrVzXGbiP9z8hwIREwFzc0fEf7GImzz0PcyvL1j5OnkM/Chico.Bento.e.a.Goiabeira.Maraviosa.2025.1080p.WEB-DL.NACIONAL.5.1.mkv.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1q4Rbn6YXG88aHWRTLcFY6gmFk1.jpg"group-title="Filmes | Comedia",O Último Azul [2025]
-https://861603694.tapecontent.net/radosgw/aPGW7MWvQwHxRgx/q6Tsl_62KjHzULC190detFXe3-slUHZG0Xq7vHEh3PfZRCGSLGJTMOsxGSi7jaA2hcaV8qd0kQki3FVtdCq8YggKF8idTfXvHxR5An7T4AlXhb2Q0GxDbWsTdiVO0VvmoHYYN6nwxU9z158WJEZ-etnP_XdPtp2SanRSljhlicFORuHe6cp01p7tO9qq3p__pliVnWhAQCnbP5_PSV2US9QGtpGT35fBLlhlSYu5gabpomLHAL3tonatBtZMmRh8PHcMErn0KjIU2hzteZUTv26biiewU3whjsN4GCXN2IgtudAEKiy4g_Rw2T8/o+ultimo+Azul.mp4?stream=1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3QYvJqECFUrNUhKv16izXEG34Cs.jpg"group-title="Filmes | Comedia",Licorice Pizza [2021]
-https://872371488.tapecontent.net/radosgw/AXRdopABbrIZO7/XdyQZ8gmGuIKQFOxiK4ZpeODGRqN99ugi04mxnGOrQqdxGEaHAmtBIFmhz_djVfwCgH7IgqWrS3U3jDXHpWkfgK0bF3voptqnOSMPNHOGkWZl7PsbMTfC-jAD7qzR3MzWidNKpykToPktoJMaVKdMneVfKzNk6Niq7Su9TvfuZ1tyNvSvg-pixEhe0eM0ViIJp2YaNkwLZTxOEUOXklHRcKRGiLulPQthfIJFoJO_aIUkEZns68mYX2M444084iBEvxJyiA3bDZaYLrl_leVzxy3Wdkk5J6KswMdIx6qzwD1FJFCszT0Iezkmtc/Licorice-Pizza.mp4?stream=1
-
-
-##EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
-
-
 
 ###############################################################################################################################################################
                                                     # FILMES DE FANTASIA
