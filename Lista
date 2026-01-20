@@ -286,9 +286,13 @@ https://watch.brplayer.cc/m3u8/10/457c753860099e09373e202e39292de9/master.txt?s=
 
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Comedia",
 ##EXTINF:-1 tvg-logo=""group-title="Filmes | Crime",
+##############################################################################################################################################################
+#                                                                             DOCUMENTARIOS
+##############################################################################################################################################################
+##EXTINF: -1 tvg-logo="" group-title=""tvg-year="" tvg-description="",
 
-
-
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDcCVlv6oYVpRZw7IX859H3Eshn.jpg" group-title="Documentário"tvg-year="2024" tvg-description="Este documentário subversivo revela os truques que as marcas usam para os clientes continuarem comprando e o impacto que isso tem em nossas vidas.",A Conspiração Consumista
+https://watch.brplayer.cc/m3u8/10/422be4bc7b63d7746f885a2962802e1a/master.txt?s=1&id=22180&cache=1
 
 
 ################################################################################################################################################################
