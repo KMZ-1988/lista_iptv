@@ -1,6 +1,8 @@
 ################################################################################################################################################################
                                                   #  SERIE DE ANIMAÇAO
 ################################################################################################################################################################
+#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEhEJowHEcWgqWknxwbdsiHyGty.jpg"group-title="Series|ANIMAÇAO|HOMEM-ARANHA S01E01",1 TEMPORADA HOMEM-ARANHA EPISODIO 1
 
@@ -8,7 +10,7 @@
 
 
 
-#EXTM3U
+
 
 ##=== SÉRIE ===
 #SERIE: The Last of Us
